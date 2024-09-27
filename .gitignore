@@ -1,4 +1,5 @@
-/tpe
+tpe/
+TP Especial/tpe/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
