@@ -1,5 +1,7 @@
 # TPE-FundamentosCienciaDatos
-Para la realizacion del TP Especial de la materia. Grupo 7, integrantes: Antúnez, Buralli, Todesco
+Para la realizacion del TP Especial de la materia. Grupo 7, integrantes: Antúnez, Buralli, Todesco.
+
+En caso de que deseen ver el informe en otro formato dejamos el enlace al documento de Google [aquí](https://docs.google.com/document/d/1aVamo6SerRPkJcXAzxWECUq-hLxOv-9-4qwl7Utd7oY/edit?usp=sharing).
 
 
 
