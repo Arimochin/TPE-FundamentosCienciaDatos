@@ -7,11 +7,14 @@ En caso de que deseen ver el informe en otro formato dejamos el enlace al docume
 
 ## Instrucciones de ejecucion
 Pre-requisitos: 
-- Instalar [Python](https://www.python.org/downloads/)
-- Instalar [Git](https://git-scm.com/downloads)
+- Instalar [Python](https://www.python.org/downloads/) (version 3.8 o superior) (sabemos que funciona en la 3.12.5)
+- Instalar [Git](https://git-scm.com/downloads) 
 - Tener un IDE instalado para el uso de Python con Jupyter Notebooks 
-(por ej. [Pycharm](https://www.jetbrains.com/es-es/pycharm/) o 
-[Visual Studio Code](https://code.visualstudio.com)) 
+(por ej. [Visual Studio Code](https://code.visualstudio.com) o [Pycharm](https://www.jetbrains.com/es-es/pycharm/)) 
+
+### Pasos recomendados para Visual Studio Code
+
+(nosotros usamos Pycharm pero tuvimos problemas al hacer la replicación porque no nos reconocía el ambiente)
 
 1. Crear una carpeta en el lugar que desee de su explorador de archivos.
 2. Abra la carpeta con el IDE de su preferencia.
